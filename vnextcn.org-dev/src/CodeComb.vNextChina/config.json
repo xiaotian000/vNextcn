@@ -1,0 +1,8 @@
+﻿{
+  "Data": {
+    "DefaultConnection": {
+      "Mode": "SqlServer",
+      "ConnectionString": "Data source=localhost;database=vnextcn;uid=sa;password=Yuuko19931101"
+    }
+  }
+}
